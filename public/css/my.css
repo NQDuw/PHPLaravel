@@ -1,0 +1,123 @@
+.menu1 ul{
+	position: absolute;
+	z-index: 999;
+}
+
+.break{
+	clear: both;
+	height: 10px;
+	width: 100%;
+	margin:auto;
+	border-bottom: 1px solid #EEEEEE;
+}
+
+.break90{
+	clear: both;
+	height: 10px;
+	width: 90%;
+	margin:auto;
+	border-bottom: 1px solid #EEEEEE;
+}
+
+.space20{
+	height: 20px;
+	width: 100%;
+}
+
+
+.row-item{
+	padding-left:15px;
+}
+
+.border-left{
+	border-left: 1px solid #EEEEEE;
+}
+
+.border-right{
+	border-right: 1px solid #EEEEEE;
+}
+
+a{
+	color:black;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.myheader{
+	background-color: #337AB7;
+	color:white;
+}
+
+.clear{
+	clear:both;
+}
+
+footer {
+	margin-top: auto;
+	background-color: #f8f9fa; 
+	padding: 10px; 	
+}
+
+.buttonXem{
+ 	color:white;
+	background-color: blueviolet;
+	border: 2px solid black;
+}
+.buttonXem:hover{
+	color:white;
+   background-color: violet;
+   border-radius: 20px;
+   border: 2px solid black;
+}
+.buttonpost{
+	color:white;
+   background-color: rgb(14, 149, 216);
+   border: 2px solid black;
+}
+.buttonpost:hover{
+   color:white;
+  background-color: rgb(85, 226, 43);
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.buttonback{
+	color:black;
+   background-color: rgb(237, 221, 198);
+   border: 2px solid black;
+}
+.buttonback:hover{
+   color:white;
+  background-color: rgb(156, 9, 201);
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.buttonSearch{
+	color:white;
+   background-color: rgb(223, 67, 10);
+   border: 2px solid white;
+}
+.buttonSearch:hover{
+   color:white;
+  background-color: rgb(248, 94, 205);
+  border-radius: 20px;
+  border: 2px solid white;
+}
+.textSearch{
+	border:2px solid rgb(10, 216, 199);
+	border-radius: 5px;
+}
+#cltieude{
+	background-color: rgb(10, 223, 166);
+	color: white;
+}
+body{
+	background-color: antiquewhite;
+}
+.nentin{
+	background-color: white;
+}
+.vientin{
+	border:2px solid black;
+}
